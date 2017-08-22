@@ -4,3 +4,5 @@
 /.vs
 /MusicRecognition.Core/bin
 /MusicRecognition.Core/obj
+bin
+obj
