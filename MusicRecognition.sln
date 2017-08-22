@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecognition", "MusicRe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{144D6F25-779D-47DA-A461-C4A901C229D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecognition.Core", "Domain\MusicRecognition.Core\MusicRecognition.Core.csproj", "{DA819573-C049-4E48-90E6-8BFC7FF02941}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecognition.Core", "MusicRecognition.Core\MusicRecognition.Core.csproj", "{DA819573-C049-4E48-90E6-8BFC7FF02941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,8 +26,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{DA819573-C049-4E48-90E6-8BFC7FF02941} = {144D6F25-779D-47DA-A461-C4A901C229D5}
 	EndGlobalSection
 EndGlobal
